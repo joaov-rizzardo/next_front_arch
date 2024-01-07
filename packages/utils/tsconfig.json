@@ -1,0 +1,3 @@
+{
+  "extends": "@alura/ts-config-commons/base.json",
+}

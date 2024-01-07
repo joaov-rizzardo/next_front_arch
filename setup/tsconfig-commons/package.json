@@ -1,0 +1,9 @@
+{
+  "name": "@alura/ts-config-commons",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "files": [
+    "base.json"
+  ]
+}
