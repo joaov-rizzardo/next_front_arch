@@ -3,10 +3,14 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "lint": "eslint './**/*.{ts,tsx}'"
+  },
   "dependencies": {
     "styled-components": "^6.1.6"
   },
   "devDependencies": {
-    "@alura/ts-config-commons": "*"
+    "@alura/ts-config-commons": "*",
+    "@alura/eslint-commons": "*"
   }
 }
