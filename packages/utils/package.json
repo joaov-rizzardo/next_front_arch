@@ -4,10 +4,11 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "lint": "eslint './**/*.{ts,tsx}'"
+    "lint": "eslint './**/*.{ts,tsx}'",
+    "test": "jest"
   },
   "devDependencies": {
-    "@alura/ts-config-commons": "*",
-    "@alura/eslint-commons": "*"
+    "@alura/eslint-commons": "*",
+    "@alura/test-commons": "*"
   }
 }
